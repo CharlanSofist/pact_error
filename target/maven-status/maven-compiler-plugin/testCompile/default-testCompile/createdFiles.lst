@@ -1,0 +1,4 @@
+com/example/demo/pacts/provider/ControllerTwoContractTest.class
+com/example/demo/pacts/provider/ControllerOneContractTest.class
+com/example/demo/pacts/consumer/ExampleContractTest.class
+com/example/demo/pacts/provider/AbstractContractTest.class
